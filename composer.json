@@ -1,11 +1,12 @@
 {
     "name": "hauerheinrich/typo3themeskeleton",
+    "version": "1.0.0",
     "type": "typo3-cms-extension",
     "description": "",
-    "authors": {
+    "authors": [{
         "name": "Christian Hackl",
         "email": "web@hauer-heinrich.de"
-    },
+    }],
     "license": "GPL-2.0",
     "keywords": ["TYPO3 CMS", "Theme", "Distribution"],
     "replace": {
