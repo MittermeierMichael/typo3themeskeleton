@@ -1,10 +1,10 @@
 {
-    "name": "mittermeiermichael/typo3themeskeleton",
+    "name": "typo3themeskeleton",
     "version": "1.0.0",
     "type": "typo3-cms-extension",
     "description": "",
     "authors": [{
-        "name": "Christian Hackl",
+        "name": "michaelmittermeier",
         "email": "web@hauer-heinrich.de"
     }],
     "license": "GPL-2.0",
